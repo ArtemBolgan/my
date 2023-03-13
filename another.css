@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+ul{
+  height: 200px;
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 20px;
+  width: 700px;
+  border: 1px solid black;
+  justify-content: center;
+}
+h1{
+  text-align: right;
+}
+.second{
+  display: flex;
+}
+.item{
+  color: blue;
+}
+li{
+  width: 100px;
+  height: 50px;
+}
